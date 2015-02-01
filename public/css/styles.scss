@@ -45,7 +45,7 @@ a.button {
 }
  
 a.button:hover {
-    background: #abcadd;
+    background: #afeeee;
 }
 
 @media only screen and (min-width: 767px) { 
@@ -53,11 +53,6 @@ a.button:hover {
     body {
         font-size: 1.125em; /* 18px / 16px */
         line-height: 1.7em;
-    }
- 
-    header.band {
-        background-image:url(../img/background.jpg);
-        background-size: 100%;
     }
      
     header.band h1 {
