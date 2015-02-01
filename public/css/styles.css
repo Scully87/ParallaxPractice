@@ -749,8 +749,3 @@ or wrap each row of columns in a <div class="row"> */
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-
-/* line 5, styles.scss */
-body {
-  background-color: black;
-}
