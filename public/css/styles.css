@@ -755,3 +755,11 @@ or wrap each row of columns in a <div class="row"> */
 html {
   font: 100%/1.5em "PT Sans", sans-serif;
 }
+
+/* line 10, styles.scss */
+header.band {
+  background: #B2B2F9;
+  color: white;
+  text-align: center;
+  padding: 10% 0 15% 0;
+}
