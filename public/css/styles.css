@@ -763,3 +763,17 @@ header.band {
   text-align: center;
   padding: 10% 0 15% 0;
 }
+
+/* line 17, styles.scss */
+h1, h2, h3 {
+  font-family: 'PT Serif', serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* line 23, styles.scss */
+header.band h1 {
+  font-size: 3em;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
