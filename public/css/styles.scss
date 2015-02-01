@@ -47,3 +47,25 @@ a.button {
 a.button:hover {
     background: #abcadd;
 }
+
+@media only screen and (min-width: 767px) { 
+ 
+    body {
+        font-size: 1.125em; /* 18px / 16px */
+        line-height: 1.7em;
+    }
+ 
+    header.band {
+        background-image:url(../img/background.jpg);
+        background-size: 100%;
+    }
+     
+    header.band h1 {
+        font-size: 3.25em; /*52 / 16*/
+    }
+     
+    a.button {
+        padding: .75em 1.5em;
+    }
+     
+}
